@@ -72,3 +72,5 @@ group :test do
 end
 
 gem "tailwindcss-rails", "~> 2.6"
+
+gem "webpacker", "~> 5.4"
