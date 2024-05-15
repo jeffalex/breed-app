@@ -1,0 +1,10 @@
+<div class="container">
+  <%= form_with url: fetch_image_path, method: :get, local: true, id: "breed-form" do %>
+    <div class="mb-3">
+      <%= label_tag :breed, "Breed" %>
+      <%= text_field_tag :breed, nil, class: "form-control" %>
+    </div>
+    <%= submit_tag "Submit", class: "btn btn-primary" %>
+  <% end %>
+  <div id="breed-image"></div>
+</div>
