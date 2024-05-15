@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# breed-app
+Ruby on Rails App  to showcase Jeff's ability as a RoR Developer
+>>>>>>> origin/main
